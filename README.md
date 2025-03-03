@@ -25,5 +25,5 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joao-francisco-bordini-ferreira) or drop me an email at [joao.bordini42@gmail.com](mailto:joao.bordini42@gmail.com).
 
 ## Currently Learning
-- [] Computer Engineering
-- [] Power Bi
+- [ ] Computer Engineering
+- [ ] Power Bi
