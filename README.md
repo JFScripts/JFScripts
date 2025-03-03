@@ -4,6 +4,7 @@
 My name is João Francisco. I'm a new programmer eager to expand my knowledge, and I present my portfolio here as a testament to my progress.
 
 ## Technologies & Tools
+- [x] Git & GitHub
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-BB86FC.svg?style=flat&logo=c&logoColor=000000)  
@@ -24,5 +25,5 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joao-francisco-bordini-ferreira) or drop me an email at [joao.bordini42@gmail.com](mailto:joao.bordini42@gmail.com).
 
 ## Currently Learning
-- Git & GitHub
-- Algorithm
+- [] Computer Engineering
+- [] Power Bi
