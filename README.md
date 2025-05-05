@@ -26,4 +26,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joao-fran
 
 ## Currently Learning
 - [ ] Computer Engineering
-- [ ] Power Bi
+- [ ] Python
