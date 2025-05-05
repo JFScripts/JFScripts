@@ -6,8 +6,9 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 ## Technologies & Tools
 - [x] Git & GitHub
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-BB86FC.svg?style=flat&logo=c&logoColor=000000)  
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=c,py,git)](https://skillicons.dev)
+
 *(More technologies and tools coming soon…)*
 
 ## GitHub Stats
