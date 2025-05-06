@@ -17,6 +17,7 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFScripts&layout=compact&bg_color=000000&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC)](https://github.com/JFScripts)
 
 ## GitHub Streak
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JFScripts&background=000000&ring=BB86FC&fire=BB86FC&currStreakNum=BB86FC&sideNums=FFFFFF&sideLabels=FFFFFF)](https://github.com/JFScripts)
 
 ## Profile Views
