@@ -12,9 +12,9 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 *(More technologies and tools coming soon…)*
 
 ## GitHub Stats
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFScripts&show_icons=true&bg_color=000000&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC)](https://github.com/JFScripts)
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFScripts&show_icons=true&theme=dark&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC)](https://github.com/JFScripts)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFScripts&layout=compact&bg_color=000000&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC)](https://github.com/JFScripts)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFScripts&theme=dark)](https://github.com/JFScripts/github-readme-stats)
 
 ## GitHub Streak
 
