@@ -18,10 +18,10 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 
 ## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JFScripts&background=000000&ring=BB86FC&fire=BB86FC&currStreakNum=BB86FC&sideNums=FFFFFF&sideLabels=FFFFFF)](https://github.com/JFScripts)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JFScripts&theme=dark)](https://git.io/streak-stats)
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=JFScripts&color=BB86FC)
+![Visitor Count](https://profile-counter.glitch.me/JFScripts/count.svg)
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joao-francisco-bordini-ferreira) or drop me an email at [joao.bordini42@gmail.com](mailto:joao.bordini42@gmail.com).
