@@ -4,7 +4,7 @@
 My name is João Francisco. I'm a new programmer eager to expand my knowledge, and I present my portfolio here as a testament to my progress.
 
 ## Technologies & Tools
-- [x] Git & GitHub
+- [x] Git & GitHub -> [Curso Em Video](https://www.cursoemvideo.com/curso/curso-de-git-e-github)
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,py,git)](https://skillicons.dev)
@@ -27,5 +27,5 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joao-francisco-bordini-ferreira) or drop me an email at [joao.bordini42@gmail.com](mailto:joao.bordini42@gmail.com).
 
 ## Currently Learning
-- [ ] Computer Engineering
-- [ ] Python
+- [ ] Computer Engineering -> [Uniara](https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/)
+- [ ] Python -> [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
