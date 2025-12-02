@@ -6,9 +6,10 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 ## Technologies & Tools
 - [x] Git & GitHub -> [Curso Em Video](https://www.cursoemvideo.com/curso/curso-de-git-e-github)
 - [x] Python -> [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
+- [x] Java -> [AutoDidata](https://github.com/JFScripts/java-roguelike-textbased-engine)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,git,java)](https://skillicons.dev)
 
 *(More technologies and tools coming soon…)*
 
