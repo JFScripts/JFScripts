@@ -29,4 +29,4 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joao-francisco-bordini-ferreira) or drop me an email at [joao.bordini42@gmail.com](mailto:joao.bordini42@gmail.com).
 
 ## Currently Learning
-- [ ] 6/10 - Computer Engineering -> [Uniara](https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/)
+- [ ] 7/10 - Computer Engineering -> [Uniara](https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/)
