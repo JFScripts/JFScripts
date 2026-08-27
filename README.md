@@ -1,34 +1,86 @@
-# Hi, I'm João Francisco 👋
+<table border="0" style="border: none; border-collapse: collapse; width: 100%;">
+<tr>
+<td width="55%" valign="top" style="border: none;">
 
-## About Me
-My name is João Francisco. I'm a new programmer eager to expand my knowledge, and I present my portfolio here as a testament to my progress.
+<h1>Hi, I'm João Francisco 
+  <a href="https://www.flaticon.com/free-icons/hello" title="Hello icons created by Prashanth Rapolu 15 - Flaticon">
+    <img src="./assets/mao-dando-oi.png" width="32" align="center">
+  </a>
+</h1>
 
-## Technologies & Tools
-- [x] Git & GitHub -> [Curso Em Video](https://www.cursoemvideo.com/curso/curso-de-git-e-github)
-- [X] SQL -> [Curso Em Video](https://www.cursoemvideo.com/curso/mysql/)
-- [x] Python -> [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
-- [x] Java -> [AutoDidata](https://github.com/JFScripts/java-roguelike-textbased-engine)
+<i>My name is João Francisco. I'm a programmer eager to expand my knowledge, and I present my portfolio here as a testament to my progress and my pursuit of building resilient, well-structured systems.</i>
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,git,java,mysql,linux)](https://skillicons.dev)
+<h3>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-ferramentas.png" width="24" align="center">
+  </a> Technologies & Tools
+</h3>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,linux,git,github,bash,md&perline=6" alt="My Skills" />
+</a>
 
-*(More technologies and tools coming soon…)*
+<h3>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-foguete.png" width="24" align="center">
+  </a> Currently Learning
+</h3>
+<ul>
+<li>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-chapeu-formatura.png" width="16" align="center">
+  </a> <b>8/10 - Computer Engineering</b> -> <a href="https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/">Uniara</a>
+</li>
+<li>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-engrenagem.png" width="16" align="center">
+  </a> <b>Data Architecture</b> -> <a href="https://www.databricks.com/br/learn/training/home">Databricks Academy</a>
+</li>
+</ul>
 
-## GitHub Stats
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFScripts&show_icons=true&theme=dark&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC)](https://github.com/JFScripts)
+<h3>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-predio.png" width="24" align="center">
+  </a> Experience & Building
+</h3>
+<ul>
+<li>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-maleta.png" width="16" align="center">
+  </a> <b>Data Engineering Intern</b> @ [Nome da Empresa] <br>
+<i>[Escrever Uma descrição].</i>
+</li>
+<li>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-controle.png" width="16" align="center">
+  </a> <b>Java Roguelike Engine</b> -> <a href="https://github.com/JFScripts/java-roguelike-textbased-engine">GitHub Repository</a>
+</li>
+</ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFScripts&theme=dark)](https://github.com/JFScripts/github-readme-stats)
+</td>
 
-## GitHub Streak
+<td width="45%" valign="top" align="center" style="border: none;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JFScripts&theme=dark)](https://git.io/streak-stats)
+<h3>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-grafico.png" width="24" align="center">
+  </a> System Analytics
+</h3>
+<img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
 
-## Profile Views
-![Visitor Count](https://profile-counter.glitch.me/JFScripts/count.svg)
+</td>
+</tr>
 
-## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joao-francisco-bordini-ferreira) or drop me an email at [joao.bordini42@gmail.com](mailto:joao.bordini42@gmail.com).
+<tr>
+<td colspan="2" align="center" style="border: none; padding-top: 30px;">
 
-## Currently Learning
-- [ ] 8/10 - Computer Engineering -> [Uniara](https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/)
-- [ ] Databricks -> [Databricks Academy](https://www.databricks.com/br/learn/training/home)
+<h3>
+  <a href="[LINK_DO_ARTISTA]" title="[TEXTO_DE_CREDITO]">
+    <img src="./assets/icone-correio.png" width="24" align="center">
+  </a> Contact
+</h3>
+<a href="https://www.linkedin.com/in/joao-francisco-bordini-ferreira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:joao.bordini42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</td>
+</tr>
+</table>
