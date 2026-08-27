@@ -5,11 +5,12 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 
 ## Technologies & Tools
 - [x] Git & GitHub -> [Curso Em Video](https://www.cursoemvideo.com/curso/curso-de-git-e-github)
+- [X] SQL -> [Curso Em Video](https://www.cursoemvideo.com/curso/mysql/)
 - [x] Python -> [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 - [x] Java -> [AutoDidata](https://github.com/JFScripts/java-roguelike-textbased-engine)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,git,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,git,java,mysql,linux)](https://skillicons.dev)
 
 *(More technologies and tools coming soon…)*
 
@@ -29,4 +30,5 @@ My name is João Francisco. I'm a new programmer eager to expand my knowledge, a
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joao-francisco-bordini-ferreira) or drop me an email at [joao.bordini42@gmail.com](mailto:joao.bordini42@gmail.com).
 
 ## Currently Learning
-- [ ] 7/10 - Computer Engineering -> [Uniara](https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/)
+- [ ] 8/10 - Computer Engineering -> [Uniara](https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/)
+- [ ] Databricks -> [Databricks Academy](https://www.databricks.com/br/learn/training/home)
